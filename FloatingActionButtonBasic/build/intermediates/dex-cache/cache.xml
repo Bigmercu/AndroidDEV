@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/classes-4c53b572d0fdfca05ea001ff286a8aea92e53cd7.jar" />
+    </item>
+    <item
+        jar="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-415b7d0fb990e29d923c7fc237700c4e2daeb32b.jar" />
+    </item>
+    <item
+        jar="/home/merx/DEV/SDK/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-2d7ab4215c0f084ab7a78a4a51618ecd1f4718a1.jar" />
+    </item>
+    <item
+        jar="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-4cd282ffc78ce0a18e67a20520c4b487d289f9b7.jar" />
+    </item>
+    <item
+        jar="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/classes-3b891a9460ac372f45d65526085110e217198a5f.jar" />
+    </item>
+    <item
+        jar="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/classes-6ebb31b4ddcd69fca44c970b78c709ab1b9c4d10.jar" />
+    </item>
+
+</items>

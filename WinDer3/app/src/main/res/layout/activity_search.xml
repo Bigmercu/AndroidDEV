@@ -1,0 +1,36 @@
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swipe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:divider="#388E8E"
+        android:dividerHeight="4px"/>
+    <!--<Button-->
+    <!--android:id="@+id/button1"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="Start"-->
+    <!--/>-->
+    <!--<TextView-->
+    <!--android:id="@+id/textView2"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:paddingTop="10dp"-->
+    <!--android:text="@string/swipe_to_refresh"-->
+    <!--android:textSize="20sp"-->
+    <!--android:textStyle="bold" />-->
+    <!--<TextView-->
+    <!--android:id="@+id/textView1"-->
+    <!--android:layout_marginTop="20dp"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--/>-->
+
+
+</android.support.v4.widget.SwipeRefreshLayout>

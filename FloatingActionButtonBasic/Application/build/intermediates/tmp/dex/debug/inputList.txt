@@ -1,0 +1,7 @@
+/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/classes/debug
+/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-415b7d0fb990e29d923c7fc237700c4e2daeb32b.jar
+/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-2d7ab4215c0f084ab7a78a4a51618ecd1f4718a1.jar
+/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/classes-3b891a9460ac372f45d65526085110e217198a5f.jar
+/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/classes-4c53b572d0fdfca05ea001ff286a8aea92e53cd7.jar
+/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-4cd282ffc78ce0a18e67a20520c4b487d289f9b7.jar
+/home/merx/AndroidStudioProjects/FloatingActionButtonBasic/Application/build/intermediates/pre-dexed/debug/classes-6ebb31b4ddcd69fca44c970b78c709ab1b9c4d10.jar
